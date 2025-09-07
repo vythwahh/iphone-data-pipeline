@@ -2,7 +2,7 @@
 
 This project focuses on cleaning, transforming, and visualizing a dataset of used iPhones. The goal is to extract meaningful insights from the raw data and present them in a clear and interpretable format.
 
-Overview
+**Overview**
 
 The pipeline processes an iPhone dataset, including:
 
@@ -12,7 +12,7 @@ Feature engineering
 
 Visualization of key trends in pricing, storage, and model availability
 
-Project Structure
+**Project Structure**
 
 src/pipeline.py – Main script that performs all steps of the pipeline: loading, cleaning, analyzing, and plotting
 
@@ -24,7 +24,7 @@ iphonedatapipeline.py – Original version of the script, kept for reference
 
 README.md – Project overview and usage guide
 
-Dependencies
+**Dependencies**
 
 This project uses Python and the following libraries:
 
@@ -36,7 +36,7 @@ To install the dependencies, run:
 
 pip install pandas matplotlib
 
-How to Run
+**How to Run**
 
 Clone the repository:
 
@@ -55,7 +55,7 @@ python src/pipeline.py
 
 The script will generate a chart and save it as charts_file.png.
 
-Notes
+**Notes**
 
 The dataset was manually collected and may require updates in the future.
 
