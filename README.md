@@ -16,4 +16,12 @@ This project focuses on:
 
 ##  Project Structure
 
+src/pipeline.py: The main Python script that cleans and processes the iPhone data
+
+data/cleaned_iphone_data.csv: The final cleaned dataset saved as CSV
+
+.gitignore: File that tells Git which files to ignore
+
+README.md: This documentation file you’re reading right now
+
 
